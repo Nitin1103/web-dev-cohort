@@ -133,4 +133,4 @@ All product names, logos, and assets belong to their respective owners.
 
 ## 👤 Author
 
-**Nitin**
+**Nitin Sharma**
